@@ -4,7 +4,7 @@ Vous pouvez mettre la fenêtre python turtle en plein écran pour une meilleur l
 
 main.py a été écrit par moi (Kino Saliba) en tant que projet final du cours en ligne "Apprendre à coder avec Python" sur la plateforme fun-mooc.fr.
 
-Les fichiers CONFIGS.py, dico_objets.txt, dico_portes.txt, plant_chateau.txt ont été fourni
+Les fichiers CONFIGS.py, dico_objets.txt, dico_portes.txt, plan_chateau.txt ont été fourni
 par le cours en ligne "Apprendre à coder avec Python" sur la platforme fun-mooc.fr afin de pouvoir
 mener à bien le projet. Ils sont donc la propriété de la platforme et/ou du cours en ligne.
 De même que l'idée du projet est la propriété de la platforme et/ou du cours en ligne.
