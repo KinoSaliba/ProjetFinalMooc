@@ -1,5 +1,5 @@
 # ProjetFinalMooc
-Ce petit jeu codé avec Python 3 est un escape game/labyrinthe à énigmes. Pour lancer le jeu, il suffit d’exécuter le fichier main.py.
+Ce petit jeu codé avec Python 3 est un escape game/labyrinthe à énigmes. Pour lancer le jeu, il suffit d’exécuter le fichier main.py. Il est également important que les **autres fichiers** du dépôt soient présents dans le **même dossier**, si non main.py ne s'exécutera pas correctement.
 Vous pouvez mettre la fenêtre python turtle en plein écran pour une meilleur lisibilité.
 
 main.py a été écrit par moi (Kino Saliba) en tant que projet final du cours en ligne "Apprendre à coder avec Python" sur la plateforme fun-mooc.fr.
